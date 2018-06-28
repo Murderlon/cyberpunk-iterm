@@ -7,7 +7,7 @@ _Tools used in preview: `exa`, `neofetch`, `httpie`, and `jq`._
 
 ## ‍💻 Install
 
-1.  <a href="https://github.com/Murderlon/cyberpunk-iterm/blob/master/.cyberpunk.itermcolors" target="_blank">Download</a>
+1.  <a href="https://github.com/Murderlon/cyberpunk-iterm/blob/master/cyberpunk.itermcolors" download>Download</a>
 2.  Go to 'Profiles' tab
 3.  Click 'Colors'
 4.  Import `cyberpunk.itermcolors`
